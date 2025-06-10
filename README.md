@@ -26,9 +26,9 @@ project/
 
 | Paquete            | Versión   | Descripción |
 |--------------------|-----------|-------------|
-| `bootstrap`        | ^5.3.6    | Framework CSS para diseño responsivo y componentes. |
-| `bootstrap-icons`  | ^1.13.1   | Íconos vectoriales compatibles con Bootstrap. |
-| `express`          | ^5.1.0    | Framework web minimalista para backend/API REST. |
+| `bootstrap`        | 5.3.6    | Framework CSS para diseño responsivo y componentes. |
+| `bootstrap-icons`  | 1.13.1   | Íconos vectoriales compatibles con Bootstrap. |
+| `express`          | 5.1.0    | Framework web minimalista para backend/API REST. |
 
 ## ✍️ Autor
 Rafael Benítez Díaz
